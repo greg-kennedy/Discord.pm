@@ -1,0 +1,9 @@
+Net::Discord
+============
+
+A Perl5 module for writing Discord chat bots.
+
+Dependencies
+------------
+
+Protocol::WebSocket::Client
